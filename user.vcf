@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Román Porras;Paola;;;
-FN: Paola Román Porras
-ORG: Fresenius Kabi Chile;
-TITLE: Head of Commercial BU Biopharmaceuticals Chile
-EMAIL;type=INTERNET;type=WORK;type=pref:paola.roman@fresenius-kabi.com
-TEL;type=WORK;type=VOICE:+56 9 963 03841 
-item1.ADR;type=WORK;type=pref:;;Av. Apoquindo 5550\nPiso 4. Las Condes.\, 8940575;Santiago
+N:Dolfi;Fabrizio;;;
+FN: Fabrizio Dolfi
+ORG: Fresenius Kabi Switzerland;
+TITLE: Clinical Development, Medical & Pharma
+EMAIL;type=INTERNET;type=WORK;type=pref:fabrizio.dolfi@fresenius-kabi.com
+TEL;type=WORK;type=VOICE:+41 79 947 30 96 
+item1.ADR;type=WORK;type=pref:;;Terre Bonne Business Park\nRte de Crassier 23/Batiment A3.\, 1262;Eysins, Switzerland
 item1.X-ABADR:sg
-item2.URL;type=pref:www.fresenius-kabi.com/cl
+item2.URL;type=pref: www.fresenius-kabi.com/de-ch/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
